@@ -1,8 +1,8 @@
 # tinderbot
 tinderbot 4 fun, no time 4 dating 2020 vision
 Project was made after watching the video from Code Dripp, which tutorial i followed as well:
-https://www.youtube.com/watch?v=lvFAuUcowT4&t=98s
-https://github.com/aj-4/tinder-swipe-bot/blob/master/tinder_bot.py
+- https://www.youtube.com/watch?v=lvFAuUcowT4&t=98s
+- https://github.com/aj-4/tinder-swipe-bot/blob/master/tinder_bot.py
 
 
 This is an automated tinder swiper bot.
